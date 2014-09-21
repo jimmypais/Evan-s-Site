@@ -8,11 +8,11 @@
 <div class="container">
   <div class="col-lg-12">
     <div class="title">
-      <h1>Hi.  I'm James.</h1>
+      <h1>Hi.  I'm Jimmy.</h1>
       <p>I'm a former Marine with coding skills and I hope to become an engineer for a respectable software comapny.</p>
     </div>
     <h3 class="list-header">Get In Touch</h3>
-    <a href="http://github.com/evanburchard">GitHub</a> • <a href="http://twitter.com/evanburchard">Twitter</a> • evan.burchard@gmail.com
+    <a href="http://github.com/jimmypais">GitHub</a> • <a href="http://twitter.com/JimmyPais">Twitter</a> • jimmypais51@gmail.com
     <br>
     <br>
     <h3 class="list-header">Projects</h3>
