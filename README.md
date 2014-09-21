@@ -19,7 +19,7 @@
     <div class="row">
       <div class="col-lg-2"><a href="http://adventureaccess.org/">Adventure Access</a> — Founder/Walker <br> New walking trail across the US.</div>
 
-      <div>The reason evanbuchard.com is looks different from what I have is because evanbuchard.com utilizes a external CSS file that enhances the site just slightly.
+      <div><br>The reason evanbuchard.com looks different from what I have is because evanbuchard.com utilizes a external CSS file that enhances the site just slightly.
       </div>
   </div>
 </div>
